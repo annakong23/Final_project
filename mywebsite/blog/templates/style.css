@@ -1,0 +1,100 @@
+/*container*/
+#idx_top { width: 100%; height: 100px;background: rgba(113, 195, 243, 0.636);
+text-align: center;}
+#idx_top {padding: 20px 0; font-size: 60 px;font-style:inherit;}
+
+#idx_name {font-size: 20 px; text-align: end;}
+
+.tbl {
+    width: 600px;
+    border-collapse: collapse;
+}
+
+.tbl caption {
+    display: none;
+}
+
+.tbl th,
+.tbl td {
+    padding: 15px 0;
+    border: 1px solid #999;
+}
+.tbl td {
+    text-align: left;
+}
+#idx_me {background-color: antiquewhite; text-align: left; padding-top: 1%; padding-bottom: 1%; padding-left: 5%;
+}
+#idx_mbti {background-color: rgb(250, 192, 213); text-align: center; padding-bottom: 1%;
+}
+#idx_hobby {background-color: rgb(218, 250, 192); padding-top: 1%; padding-left: 2%; padding-bottom: 5%;
+}
+#idx_2022 {background-color: antiquewhite;  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; padding-left: 5%;
+}
+#idx_timetable {background-color: antiquewhite;  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; padding-left: 5%;
+}
+#idx_baby {background-color: rgb(248, 185, 149);  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; text-align: center;
+}
+#idx_love {background-color: rgb(198, 236, 250);  padding-top: 1%; padding-left: 2%; padding-bottom: 5%; padding-left: 5%;
+}
+
+#idx_goal {background-color: antiquewhite;  padding-top: 1%; padding-left: 5%; padding-bottom: 5%; 
+}
+#idx_bucket {background-color: rgb(184, 197, 250);  padding-top: 1%; padding-left: 5%; padding-bottom: 5%; 
+}
+#idx_job {background-color: rgb(248, 204, 242);  padding-top: 1%; padding-left: 5%; padding-bottom: 5%; 
+}
+.tbl2 {
+    width: 600px;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.tbl2 caption {
+    display: none;
+}
+
+.tbl2 th,
+.tbl2 td {
+    padding: 15px 0;
+    border: 1px solid #999;
+}
+.tbl2 td {
+    text-align:center;
+}
+
+.tbl_p1 {
+    width: 600px;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.tbl_p1 caption {
+    display: none;
+}
+
+.tbl_p1 td {
+    padding: 15px 0;
+    border: 1px solid #999;
+}
+.tbl_p1 td {
+    text-align:center;
+}
+
+.tbl_hobby {
+    width: 600px;
+    border-collapse: collapse;
+}
+
+.tbl_hobby caption {
+    display: none;
+}
+
+.tbl_hobby td {
+    padding: 15px 0;
+    border: 1px solid #999;
+}
+.tbl_hobby td {
+    text-align:center; 
+}
